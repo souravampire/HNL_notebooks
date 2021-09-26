@@ -1,7 +1,7 @@
-pyhf[xmlio,contrib]==0.6.4
+pyhf==0.6.4
 # visualization
-pandas~=1.0
-altair~=4.1
+pandas
+altair
 
 # minuit
-iminuit==2.4.0
+iminuit
