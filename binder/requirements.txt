@@ -21,3 +21,4 @@ torch==1.8.0
 --find-links https://storage.googleapis.com/jax-releases/jax_releases.html
 jax==0.2.8
 jaxlib==0.1.58
+matplotlib==3.4.3
